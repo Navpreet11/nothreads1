@@ -92,7 +92,7 @@ def login():
     st.markdown(f"___")
 
 
-    st.markdown(f"Don't have an account yet ?[create one now](https://nothreadssignup.streamlit.app)")
+    st.markdown(f"Don't have an account yet ?[create one now](https://nothreadsup.streamlit.app)")
 
   
 def set_user_logged_in(username):
