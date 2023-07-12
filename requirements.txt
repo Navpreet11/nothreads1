@@ -1,5 +1,5 @@
 streamlit  == 1.24.0
-sqlite
+sqlite==3
 datetime
 Pillow ==9.5.0
 time
